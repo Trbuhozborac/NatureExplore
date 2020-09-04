@@ -9,7 +9,7 @@
   "author": "Nemanja",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "jQuery": "^1.7.4"
